@@ -57,7 +57,6 @@ A passionate frontend developer crafting beautiful, responsive web and mobile ex
 
 <p align="center">
   <a href="https://linkedin.com/in/tejastejale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejastejale" height="30" width="40" /></a>
-  <a href="https://twitter.com/tejastejale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejastejale" height="30" width="40" /></a>
 </p>
 
 ## ⚡ Fun Fact
