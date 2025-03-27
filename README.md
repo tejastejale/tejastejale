@@ -7,3 +7,10 @@
 📫 How to reach me: You can reach me through my GitHub profile or via email at tejastejale13@gmail.com...
 
 ⚡ Fun fact: I love experimenting with new coding techniques and frameworks. When I’m not coding, you might find me exploring the latest trends in tech or working on side projects that challenge my skills.
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejastejale&show_icons=true&locale=en&layout=compact" alt="tejastejale" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejastejale&show_icons=true&locale=en" alt="tejastejale" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejastejale&" alt="tejastejale" /></p>
