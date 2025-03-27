@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Tejale</h1>
-<h3 align="center">A Passionate Full-Stack Developer & Tech Innovator 🚀</h3>
+<h3 align="center">Frontend Maestro | React & React Native Enthusiast 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tejastejale&label=Profile%20views&color=0e75b6&style=flat" alt="tejastejale" />
@@ -7,64 +7,61 @@
 
 ## 🌟 About Me
 
-I'm a dynamic software developer with a passion for creating innovative web solutions. My journey in tech is driven by curiosity, creativity, and a constant desire to learn and grow.
+A passionate frontend developer crafting beautiful, responsive web and mobile experiences with cutting-edge technologies.
 
-## 🔍 Interests
+## 🔍 Core Expertise
 
-- 🌐 Web Development
-- 🖥️ Full-Stack Projects
-- 🎨 UI/UX Design
-- 🚀 Emerging Technologies
+- 💻 React & React Native
+- 🎨 Tailwind CSS
+- 🖌️ UI/UX Design
+- 🍎 MacOS & SwiftUI Development
 
-## 🌱 Currently Learning
-
-- Advanced React Concepts
-- State Management with Recoil
-- Node.js Backend Development
-- DevOps Practices with GitHub Actions
-
-## 💞️ Collaboration Goals
-
-I'm eager to collaborate on:
-- Open-source projects
-- Innovative web applications
-- Exciting projects integrating UI frameworks like Material UI and Tailwind CSS
-
-## 🛠️ Languages and Tools
+## 🛠️ Technologies & Tools
 
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="react-native" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
+  <a href="https://storybook.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/storybookjs/brand/master/icon/icon-gradient.svg" alt="storybook" width="40" height="40"/></a>
 </p>
+
+## 🌱 Currently Exploring
+
+- 🔬 Advanced React Hooks & Patterns
+- 🚀 Next.js 14 Advanced Features
+- 🎨 Design Systems & Component Libraries
+- 📱 Cross-Platform Mobile Development
+
+## 💞️ I'm Passionate About
+
+- Building responsive, high-performance web applications
+- Creating intuitive mobile experiences with React Native
+- Designing pixel-perfect UIs with Tailwind CSS
+- Exploring the intersection of design and development
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejastejale&show_icons=true&locale=en&layout=compact" alt="tejastejale" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejastejale&show_icons=true&locale=en&layout=compact&theme=dracula" alt="tejastejale" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejastejale&show_icons=true&locale=en" alt="tejastejale" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejastejale&" alt="tejastejale" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tejastejale&show_icons=true&locale=en&theme=dracula" alt="tejastejale" />
 </p>
 
 ## 📬 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/tejastejale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejastejale" height="30" width="40" /></a>
-  <a href="https://instagram.com/tejas_tejale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejas_tejale" height="30" width="40" /></a>
+  <a href="https://twitter.com/tejastejale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejastejale" height="30" width="40" /></a>
 </p>
 
 ## ⚡ Fun Fact
 
-When I'm not coding, I love experimenting with new technologies and exploring the latest trends in the tech world. My passion for innovation drives me to constantly challenge my skills and push the boundaries of what's possible! 💡🌈
+When I'm not coding, I'm probably customizing my MacOS setup or exploring the latest design trends in the tech world! 🖥️✨
 
 **📫 Contact:** tejastejale13@gmail.com
